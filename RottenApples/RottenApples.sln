@@ -3,30 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "RottenApples.Shared", "RottenApples.Shared\RottenApples.Shared.shproj", "{C29780AA-40D9-42AD-99AE-4D56DB846544}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "RottenApples.Shared", "RottenApples.Shared\RottenApples.Shared.shproj", "{A0CDBD0E-3A41-42B7-9425-A838BC2C7383}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RottenApples.Android", "RottenApples.Android\RottenApples.Android.csproj", "{11952D3D-F7F4-494A-8EC0-2CDF12A13A12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RottenApples.Android", "RottenApples.Android\RottenApples.Android.csproj", "{72F76026-2937-4B41-851F-A994FFED0401}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		RottenApples.Shared\RottenApples.Shared.projitems*{c29780aa-40d9-42ad-99ae-4d56db846544}*SharedItemsImports = 13
+		RottenApples.Shared\RottenApples.Shared.projitems*{72f76026-2937-4b41-851f-a994ffed0401}*SharedItemsImports = 4
+		RottenApples.Shared\RottenApples.Shared.projitems*{a0cdbd0e-3a41-42b7-9425-a838bc2c7383}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{11952D3D-F7F4-494A-8EC0-2CDF12A13A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{11952D3D-F7F4-494A-8EC0-2CDF12A13A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{11952D3D-F7F4-494A-8EC0-2CDF12A13A12}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{11952D3D-F7F4-494A-8EC0-2CDF12A13A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{11952D3D-F7F4-494A-8EC0-2CDF12A13A12}.Release|Any CPU.Build.0 = Release|Any CPU
-		{11952D3D-F7F4-494A-8EC0-2CDF12A13A12}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{72F76026-2937-4B41-851F-A994FFED0401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F76026-2937-4B41-851F-A994FFED0401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F76026-2937-4B41-851F-A994FFED0401}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{72F76026-2937-4B41-851F-A994FFED0401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F76026-2937-4B41-851F-A994FFED0401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F76026-2937-4B41-851F-A994FFED0401}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2876C9EE-069D-4A47-BC20-404945C2ACBB}
+		SolutionGuid = {88E0C0FE-2ED7-4F8F-86CA-7B3F8D368E7E}
 	EndGlobalSection
 EndGlobal
