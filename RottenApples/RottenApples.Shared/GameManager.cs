@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace RottenApples
+namespace RottenApples.Shared
 {
     public class GameManager : Game
     {
